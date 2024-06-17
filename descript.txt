@@ -1,0 +1,16 @@
+Charset,UTF-8
+readme.charset,UTF-8
+
+readme,ReadMe.md
+type,plugin
+name,console
+craftman,ambergon
+filename,main.dll
+
+id,8a421ce6-3ab3-9515-2f45-3d99ceb9b9f0
+
+
+otherghosttalk,0
+
+//更新url
+homeurl,
